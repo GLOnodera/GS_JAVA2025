@@ -46,7 +46,7 @@ Sistema web para **gerenciamento emergencial** de abrigos durante desastres natu
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/gestao-abrigos.git
+git clone https://github.com/GLOnodera/GS_JAVA2025.git
 cd gestao-abrigos
 ```
 
